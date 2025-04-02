@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables (DO NOT COMMIT API KEYS!)
+.env
+
+# Logs
+logs/
+*.log
+logs/*.log
+debug.log
+
+# Build artifacts
+dist/
+build/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# OS files
+.DS_Store
+Thumbs.db
